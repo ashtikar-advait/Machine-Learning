@@ -24,7 +24,7 @@ In this project, I aimed to predict the quality of wines based on various chemic
 
 ## Getting Started
 - If you're new to data science and machine learning, you can use this project as a reference to learn about various steps involved in a typical data analysis and machine learning.
-- 
+  
 ## Acknowledgments
 I'd like to express my gratitude to the online communities, tutorials, and resources that helped me on my journey to create this project. I'm a beginner in this field, and the support of the community has been invaluable.
 
