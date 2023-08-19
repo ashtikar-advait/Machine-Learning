@@ -22,18 +22,14 @@ In this project, I aimed to predict the quality of wines based on various chemic
 
 5. **Model Evaluation**: I evaluated the model's performance using various metrics such as accuracy, precision, recall, and F1-score.
 
-6. **Creating Flask App**: I deployed the trained model using Flask, creating an API that accepts input features and provides predictions.
-
 ## Getting Started
-- If you're new to data science and machine learning, you can use this project as a reference to learn about various steps involved in a typical data analysis and machine learning pipeline.
-
-- If you're interested in trying out the Flask deployment, you can refer to the Flask app code and modify it to suit your own projects.
-
+- If you're new to data science and machine learning, you can use this project as a reference to learn about various steps involved in a typical data analysis and machine learning.
+- 
 ## Acknowledgments
 I'd like to express my gratitude to the online communities, tutorials, and resources that helped me on my journey to create this project. I'm a beginner in this field, and the support of the community has been invaluable.
 
 ## Connect with Me
-If you're also new to data science and machine learning, or if you'd like to connect and discuss similar projects, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/).
+If you're also new to data science and machine learning, or if you'd like to connect and discuss similar projects, feel free to reach out to me on LinkedIn (www.linkedin.com/in/advait-ashtikar).
 
 ## Note
 As a newcomer to GitHub, data science, and machine learning, I'm excited to share my very first project with the community. Any feedback, suggestions, or advice are more than welcome. Let's learn and grow together!
